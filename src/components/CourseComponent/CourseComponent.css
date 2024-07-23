@@ -1,0 +1,30 @@
+
+.course-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .course-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .course-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .course-table th, .course-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .course-table th {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  

@@ -1,0 +1,9 @@
+ul{
+    display:flex;
+    list-style: none;
+}
+ul li{
+    padding-right: 60px;
+    color: yellowgreen;
+
+}
